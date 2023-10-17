@@ -20,11 +20,11 @@ jobs:
     - name: Generate Snake
       uses: Platane/snk@main
       with:
-        github_user_name: ${{ github.alissonpereiratm }}
+        github_user_name: ${{ github.alissonpereiratm}}
         outputs: |
           dist/github-contribution-grid-snake.svg
           dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        delay: 300
+        delay: 400
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,3 +35,4 @@ jobs:
         directory: dist
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
