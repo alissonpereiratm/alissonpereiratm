@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  heigh = 50px width =50px  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigh = 50px width =50px />
-  <img src="https://res-5.cloudinary.com/hbdyf1hp4/image/upload/q_auto/v1/images/pentaho-logo.png" heigh = 50px width =50px />
+  <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1397183824/219e4e09bf0313d6e550ba1f7ad1c2aa.png" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" heigh = 50px width =50px />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigh = 50px width =50px  />
