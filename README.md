@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigh = 50px width =50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" heigh = 50px width =50px  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigh = 50px width =50px />
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" heigh = 50px width =50px />
 </div>
-
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alissonpereiratm/alissonpereiratm/output/github-contribution-grid-snake-dark.svg">
